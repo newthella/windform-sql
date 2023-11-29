@@ -1,0 +1,25 @@
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\bin\Debug\net6.0-windows\CRUD bidang.exe
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\bin\Debug\net6.0-windows\CRUD bidang.deps.json
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\bin\Debug\net6.0-windows\CRUD bidang.runtimeconfig.json
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\bin\Debug\net6.0-windows\CRUD bidang.dll
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\bin\Debug\net6.0-windows\CRUD bidang.pdb
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\bin\Debug\net6.0-windows\Npgsql.dll
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\obj\Debug\net6.0-windows\CRUD bidang.csproj.AssemblyReference.cache
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\obj\Debug\net6.0-windows\CRUD_bidang.Form1.resources
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\obj\Debug\net6.0-windows\CRUD bidang.csproj.GenerateResource.cache
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\obj\Debug\net6.0-windows\CRUD bidang.GeneratedMSBuildEditorConfig.editorconfig
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\obj\Debug\net6.0-windows\CRUD bidang.AssemblyInfoInputs.cache
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\obj\Debug\net6.0-windows\CRUD bidang.AssemblyInfo.cs
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\obj\Debug\net6.0-windows\CRUD bidang.csproj.CoreCompileInputs.cache
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\obj\Debug\net6.0-windows\CRUD bidang.csproj.CopyComplete
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\obj\Debug\net6.0-windows\CRUD bidang.dll
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\obj\Debug\net6.0-windows\refint\CRUD bidang.dll
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\obj\Debug\net6.0-windows\CRUD bidang.pdb
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\obj\Debug\net6.0-windows\CRUD bidang.genruntimeconfig.cache
+D:\CINTA CODING\KULIAH\CRUD bidang\CRUD bidang\obj\Debug\net6.0-windows\ref\CRUD bidang.dll
